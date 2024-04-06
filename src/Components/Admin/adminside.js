@@ -1,3 +1,4 @@
+// Elements related to "Edit" page are not accomplished
 import {Link} from 'react-router-dom';
 export default function AdminSide(){
     let editURL = '';
